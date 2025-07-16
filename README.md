@@ -7,7 +7,9 @@ A Machine Learning-powered NLP web application that classifies news articles as 
 🚀 Overview
 This project is part of my 25 Premium AI Projects in 25 Days Challenge, aiming to build production-ready ML solutions.
 Despite working with noisy, imbalanced, and poorly labeled data, the model achieved an unexpected 80% accuracy — thanks to deep EDA, strong text preprocessing, and robust pipeline design.
-
+ 
+ 🚀 Users can input news content and its subject to instantly detect whether it's Real or Fake.
+ 
 🧠 How It Works
 User inputs a news article and selects a relevant subject (e.g., Politics, US_News).
 
