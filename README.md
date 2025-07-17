@@ -2,6 +2,8 @@
 
 ![screenshot](gitimg.png)
 
+ Project 4 of my 25 Premium AI Projects Challenge
+
 A Machine Learning-powered NLP web application that classifies news articles as Real or Fake using logistic regression and TF-IDF features. Built with Streamlit for an interactive UI.
 
 🚀 Overview
