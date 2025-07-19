@@ -1,5 +1,10 @@
 📰 Fake News Detection Web App
 
+
+🔗 🚀 Live Demo 
+[click here to see live demo](fakenewspredictionbyzaidnaeem.streamlit.app)
+
+
 ![screenshot](gitimg.png)
 
  Project 4 of my 25 Premium AI Projects Challenge
