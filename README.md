@@ -1,4 +1,4 @@
-# h1 📰 Fake News Detection Web App
+# 📰 Fake News Detection Web App
 
 
 🔗 🚀 Live Demo 
